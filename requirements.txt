@@ -72,7 +72,7 @@ QtPy==2.0.1
 requests==2.27.1
 scikit-learn==1.0.2
 scikit-metrics==0.1.0
-scipy==1.8.0
+#scipy==1.8.0
 Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.2.0
